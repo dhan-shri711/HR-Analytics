@@ -12,5 +12,6 @@ The HR Analysis Dashboard provides a comprehensive view of workforce trends and 
 - Number of Employees by Age Group – Distribution of employees across various age brackets.
 - Job Satisfaction Rating – Employee satisfaction levels based on feedback.
 - Sum of Attrition Count by Education Field – Attrition numbers categorized by employees’ education background.
+
 This dashboard helps HR teams monitor employee demographics, understand attrition causes, and improve workforce planning.
 
